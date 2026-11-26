@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Learning Exercises
+- Small programs and exercises I’ve written in C
+- Topics: variables, conditionals, loops, and functions
+
+## Goals
+- Build a strong foundation in C
+- Practice what I learn by writing small programs
+- Gradually work on more advanced projects
+  
 <!--
 **Huseyineeeng/Huseyineeeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
