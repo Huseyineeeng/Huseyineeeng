@@ -3,7 +3,7 @@
 ## Learning Exercises
 - Small programs and exercises I’ve written in C
 - Topics: variables, conditionals, loops, and functions
-
+- I’m currently working on Voting machine
 ## Goals
 - Build a strong foundation in C
 - Practice what I learn by writing small programs
